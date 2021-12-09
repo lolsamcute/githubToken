@@ -1,8 +1,10 @@
-# Consume.us (consumeus)
+# Github Token
 
-Official Consume.us Frontend Application
+Official Github Token Frontend Application
 
 ## Install the dependencies
+
+first: NPM Install
 
 ```bash
 yarn
